@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    height: 0;
+    font: 500 20px/18px "微软雅黑";
+}
+header{
+    width: 100%;
+    min-width: 1200px;
+    height: 80px;
+}
+.header_wrap{
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+}
+.head_logo{
+    font: 500 20px/80px "微软雅黑";
+    margin-left: 5px;
+    color: #333;
+}
+.head_ul{
+    height: 80px;
+    overflow: hidden;
+}
+.head_ul li{
+    float: left;
+    width: 140px;
+    height: 80px;
+}
+.head_ul li a {
+    width: 70px;
+    height: 78px;
+    display: block;
+    margin: 0 35px;
+    text-align: center;
+    font: 500 16px/78px "微软雅黑";
+    color: #333;
+}
+.head_ul_color{
+    color: #4892ee;
+    border-bottom: 2px solid #4892ee;
+}

@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    height: 0;
+    font: 500 18px/18px "微软雅黑";
+}
+.wrap{
+    width: 100%;
+    margin: 0 auto;
+}
+.banner{
+    width: 100%;
+    height: auto;
+}
+
+/*关于我们*/
+.we{
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+.we_titie{
+    height: 40px;
+    padding: 100px 0 40px;
+    font: 500 36px/36px "微软雅黑";
+    text-align: center;
+    color: #222;
+}
+.we_txt{
+    padding: 45px 0 110px;
+}
+.we_text{
+    height: 30px;
+    font: 500 18px/30px "宋体";
+    text-align: center;
+    color: #222;
+}
+.we_cent{
+    width: 1200px;
+    height: 544px;
+    margin-bottom: 110px;
+}
+.we_cent_touzi{
+    width: 400px;
+    height: 544px;
+}
+.we_cent_touzi_txt{
+    height: 274px;
+    position: relative;
+}
+.we_cent_touzi_txt_img{
+    position: absolute;
+}
+.we_cent_touzi_txt_title{
+    color: #4892ee;
+    text-align: center;
+    height: auto;
+    overflow: hidden;
+    font: 500 20px/60px "微软雅黑";
+}
+.we_cent_touzi_txt_p{
+    color: #222;
+    padding:0 20px;
+    text-align:justify;
+    font: 500 16px/38px "微软雅黑";
+}
+.we_cent_touzi_txt_img0{
+    position: absolute;
+    right: 0;
+}
+
+/*<!--服务宗旨-->*/
+.fuwu{
+    width: 100%;
+    height: 515px;
+    background: url("../images/images/background.png")no-repeat center center;
+    background-size: cover;
+}
+.fuwu_txt{
+    color: #fff;
+}
+.fuwu_img{
+    margin: 65px auto 0;
+    display: block;
+    width: 134px;
+    height: 34px;
+}
+.fuwu_img0{
+    margin: 25px auto 0;
+}
+
+/*联系我们*/.wrap_lianxi{width: 100%;height: 640px;}
+.wl_box{width: 1200px;height: 100%;margin: 0 auto;overflow: hidden;}
+.wlb_one{width: 1200px;height: 120px;margin-top: 40px;}
+.wlb_one p{line-height: 38px;color: #2f95ee;text-align: center;}
+.wlb_one .cont{font-size: 14px;}
+.wlb_one .wlbo_lianxi{font-size: 28px;}
+
+.wlbtft_right{padding-top: 3px;padding-left: 18px;}.wqq_line{width: 70px;height: 2px;background: #2f95ee;margin: 18px auto;}
+/*地图和联系方式*/.wlb_two{height: 410px;width: 100%;overflow: hidden;}
+/*地图*/#wlbt_map{float: left;width: 600px;height: 334px;;margin-top: 40px;}
+/*联系方式*/.wlbt_fs{float: right;width: 472px;height: 334px;margin-top: 40px;}
+.wlbt_fs>p{
+    color: #555;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+.content{
+    height: 40px;
+}
+#wlbtf_one{font-size: 24px;font-weight: 400;}
+#wlbtf_xingyong{padding-bottom: 30px;}
+.wlbtf_two{height: 60px;width: 100%;overflow: hidden;}
+.wlbtf_two>div{float: left;}
+.wlbtft_left{width: 27px;height: 27px;}
+
+
+
+

@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 微软雅黑;
+}
+img{
+    display: block;
+    border: none;
+}
+.fuwu{
+    width: 100%;
+    height: auto;
+    margin-bottom: 200px;
+}
+/*服务开始*/
+/*banner图*/
+
+.fwBanner{
+    width: 100%;
+    height: auto;
+}
+.fwBanner img{
+    width: 100%;
+    height: 450px;
+}
+/*服务介绍开始*/
+.fwjs{
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+}
+.fwjs p{
+    text-align: center;
+    font-size: 36px;
+}
+.fwjs img{
+    width: 1200px;
+    height: 20px;
+    margin: 40px auto 0;
+}
+/*图文介绍开始*/
+.twjs{
+    width: 1140px;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+/*list*/
+.twjsBox{
+    width: 100%;
+    height: 340px;
+    margin-top: 80px;
+}
+.twjsBox>div{
+    float: left;
+    height: 340px;
+}
+h3{
+    padding-top:35px ;
+    color: #000;
+}
+.wordBox{
+    width: 650px;
+}
+.wordBox>p{
+    margin-top: 90px;
+    padding-right: 60px;
+    font-size: 18px;
+    line-height: 37px;
+}
+.picBox{
+    width: 490px;
+}
+.picBox img{
+    width: 426px;
+    height: 326px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
